@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b636fbc624351c59b8658eb1fab8ea4c",
+    "revision": "d982538a7fbce3284099c30f770d246e",
     "url": "/gearfinder-static/index.html"
   },
   {
-    "revision": "453bef2ab863d16e77b7",
-    "url": "/gearfinder-static/static/css/main.48ad3e53.chunk.css"
+    "revision": "8e168f0908095b31f43c",
+    "url": "/gearfinder-static/static/css/main.98b93a9f.chunk.css"
   },
   {
     "revision": "8dc51d88ae336112658e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gearfinder-static/static/js/2.ec168bd3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "453bef2ab863d16e77b7",
+    "revision": "8e168f0908095b31f43c",
     "url": "/gearfinder-static/static/js/main.b96988c2.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gearfinder-static/static/js/runtime-main.db304834.js"
   },
   {
-    "revision": "38ae3c2a706049ee8d78b72c26f4f325",
-    "url": "/gearfinder-static/static/media/ship.38ae3c2a.jpg"
+    "revision": "2705c8882b25ee3d3aa8bbcc6466f89e",
+    "url": "/gearfinder-static/static/media/ship.2705c888.jpg"
   }
 ]);
