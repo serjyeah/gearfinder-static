@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gearfinder-static/static/css/main.98b93a9f.chunk.css",
+    "main.css": "/gearfinder-static/static/css/main.a494b6f8.chunk.css",
     "main.js": "/gearfinder-static/static/js/main.b96988c2.chunk.js",
     "main.js.map": "/gearfinder-static/static/js/main.b96988c2.chunk.js.map",
     "runtime-main.js": "/gearfinder-static/static/js/runtime-main.db304834.js",
@@ -8,16 +8,16 @@
     "static/js/2.ec168bd3.chunk.js": "/gearfinder-static/static/js/2.ec168bd3.chunk.js",
     "static/js/2.ec168bd3.chunk.js.map": "/gearfinder-static/static/js/2.ec168bd3.chunk.js.map",
     "index.html": "/gearfinder-static/index.html",
-    "precache-manifest.226c6fe8360f86ebabfe7822f9989356.js": "/gearfinder-static/precache-manifest.226c6fe8360f86ebabfe7822f9989356.js",
+    "precache-manifest.bf7917c5dc6cc1bce961a7ef5c2ef2a3.js": "/gearfinder-static/precache-manifest.bf7917c5dc6cc1bce961a7ef5c2ef2a3.js",
     "service-worker.js": "/gearfinder-static/service-worker.js",
-    "static/css/main.98b93a9f.chunk.css.map": "/gearfinder-static/static/css/main.98b93a9f.chunk.css.map",
+    "static/css/main.a494b6f8.chunk.css.map": "/gearfinder-static/static/css/main.a494b6f8.chunk.css.map",
     "static/js/2.ec168bd3.chunk.js.LICENSE.txt": "/gearfinder-static/static/js/2.ec168bd3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/gearfinder-static/static/media/ship.2705c888.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.db304834.js",
     "static/js/2.ec168bd3.chunk.js",
-    "static/css/main.98b93a9f.chunk.css",
+    "static/css/main.a494b6f8.chunk.css",
     "static/js/main.b96988c2.chunk.js"
   ]
 }
