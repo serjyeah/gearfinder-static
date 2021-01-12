@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gearfinder-static/precache-manifest.bf7917c5dc6cc1bce961a7ef5c2ef2a3.js"
+  "/gearfinder-static/precache-manifest.1e24907f8268d2b6e26a57942fbedd98.js"
 );
 
 self.addEventListener('message', (event) => {
